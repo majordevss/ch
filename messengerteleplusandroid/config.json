@@ -1,0 +1,79 @@
+{
+  "app_name": "Plus Tele Messenger",
+  "app_short_name": "Plus Tele",
+  "app_version_name": "8.4",
+  "app_version_code": "52240",
+  "app_package": "com.plus.tele.android",
+  "ad_type": "meta", "ad_type2": "monetag",
+  "ads": {
+    "admob": {
+      "app_id": "ca-app-pub-2388049881772306~1329058842",
+      "ad_native": "ca-app-pub-2388049881772306/9238615327",
+      "ad_interstitial": "ca-app-pub-2388049881772306/2523612288",
+      "ad_banner": "ca-app-pub-2388049881772306/7775938969",
+      "ad_rewarded": "ca-app-pub-2388049881772306/7201223898",
+      "ad_reward_interstitial": "ca-app-pub-2388049881772306/8514305566",
+      "ad_app_open": "ca-app-pub-2388049881772306/9047043638"
+    },
+    "top_on": {
+      "app_id": "a64bf9a4cf13c8",
+      "api_key": "8bffc43a230af5ef1ebabb942f30ac2e",
+      "ad_native": "b64bf9a8a91eaf",
+      "ad_banner": "",
+      "ad_interstitial": "b64bf9a8aed4cd",
+      "ad_rewarded": ""
+    },
+    "unity": {
+      "app_id": "5379885",
+      "ad_native": "",
+      "ad_interstitial": "Interstitial_Android",
+      "ad_banner": "Banner_Android",
+      "ad_rewarded": "Rewarded_Android",
+      "ad_reward_interstitial": "",
+      "ad_app_open": ""
+    },
+    "meta": {
+      "app_id": "",
+      "ad_native": "565034699145373_565052099143633",
+      "ad_interstitial": "565034699145373_565050332477143",
+      "ad_banner": "565034699145373_565049875810522",
+      "ad_rewarded": "565034699145373_565053485810161",
+      "ad_native_banner": "565034699145373_565052772476899",
+      "med_rectangle": "565034699145373_565051749143668"
+    },
+    "monetag": {
+      "notixAppId": "p6248365",
+      "notixToken": "46a89495606e43cf8bdd2e1289a646f5",
+      "zoneId": 6248365
+    }
+
+
+  },
+  "add_opt": {
+    "show_native": true,
+    "show_inter": true,
+    "show_banner": false,
+    "show_rewarded": false,
+    "show_reward_inter": false,
+    "show_open": false,
+    "chat_ad_count":2,
+    "chat_ad_count_space":5,
+    "inter_ad_interval": 7,
+    "show_notif_ad": false,
+    "native_refresh_time_sec": 300,
+    "native_dialog_ad_count": 3
+  },
+  "tele_api": {
+    "app_id": "26456282",
+    "app_hash": "36746ac181b81762d67d1ccc96135f88",
+    "app_name": "Coolgram(Nesong)"
+  },
+  "config_url": "https://plus-messegner-default-rtdb.asia-southeast1.firebasedatabase.app/app.json",
+  "config_url_beta": "https://plus-messegner-default-rtdb.asia-southeast1.firebasedatabase.app/beta.json",
+  "one_signal_app_id": "c071d0a9-6980-413d-91fb-cbebbe524a42",
+  "channels_url": "https://raw.githubusercontent.com/majordevss/ch/master/channels.json",
+  "catalog_config_ch": "cloneresourceschannel",
+  "channel_add_ch": "agmloeabmembersgrama",
+  "use_ch_for_member": true,
+  "promo_ch":"clonepromo"
+}

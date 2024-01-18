@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "585253751222",
+    "project_id": "plus-messegner",
+    "storage_bucket": "plus-messegner.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:585253751222:android:62844bb0d640173c1c9917",
+        "android_client_info": {
+          "package_name": "com.plus.tele.android"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "585253751222-eanc3temo5ft1mogi44a73trh9b99aq5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUZeiJMR-c0B6xMrpSz17U7dMvF4nncC0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "585253751222-eanc3temo5ft1mogi44a73trh9b99aq5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:585253751222:android:6bedc2d4fa2086b71c9917",
+        "android_client_info": {
+          "package_name": "com.plus.tele.android.beta"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "585253751222-eanc3temo5ft1mogi44a73trh9b99aq5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUZeiJMR-c0B6xMrpSz17U7dMvF4nncC0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "585253751222-eanc3temo5ft1mogi44a73trh9b99aq5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

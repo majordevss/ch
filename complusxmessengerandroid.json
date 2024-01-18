@@ -1,0 +1,38 @@
+{
+  "app_name": "Plus Tele X Messenger",
+  "app_short_name": "Plus X",
+  "app_version_name": "7.4",
+  "app_version_code": "6008",
+  "app_package": "com.plus.x.messenger.android",
+  "ad_type": "admob",
+  "ads": {
+    "admob": {
+      "app_id": "ca-app-pub-7803881783465259~1879265987",
+      "ad_native": "ca-app-pub-7803881783465259/2469512672",
+      "ad_interstitial": "ca-app-pub-7803881783465259/5778202293",
+      "ad_banner": "ca-app-pub-7803881783465259/4281066025",
+      "ad_rewarded": "ca-app-pub-7803881783465259/9902209748",
+      "ad_reward_interstitial": "ca-app-pub-7803881783465259/3528373083",
+      "ad_app_open": "ca-app-pub-7803881783465259/9891349880"
+    }
+  },
+  "add_opt": {
+    "show_native": "true",
+    "show_inter": "true",
+    "show_banner": "true",
+    "show_rewarded": "false",
+    "show_reward_inter": "false",
+    "show_open": "true"
+
+  },
+  "tele_api": {
+    "app_id": "24424806",
+    "app_hash": "b54fafd4f2666f03c4146861457e81f9",
+    "app_name": "plus tele x"
+  },
+  "config_url": "https://test-clone-3ead3-default-rtdb.firebaseio.com/apps/complusxmessengerandroid.json",
+  "one_signal_app_id": "dec1bada-0b30-46d7-a2ea-6a76d1bbe802",
+  "channels_url": "https://raw.githubusercontent.com/majordevss/ch/master/channels.json",
+  "catalog_config_ch": "cloneresourceschannel",
+  "channel_add_ch": ""
+}

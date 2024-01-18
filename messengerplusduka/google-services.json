@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "761742170686",
+    "project_id": "messenger-plus-db86e",
+    "storage_bucket": "messenger-plus-db86e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:761742170686:android:c1db3a7e60887e31118f6f",
+        "android_client_info": {
+          "package_name": "messenger.plus.duka"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "761742170686-n76mi09mqv9gm4kcc9p6hvj4ts6t64h7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUc5k34vdD2QSE6_tx-ajAlMX6IBSk1yY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "761742170686-n76mi09mqv9gm4kcc9p6hvj4ts6t64h7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:761742170686:android:e048042ba1e090bb118f6f",
+        "android_client_info": {
+          "package_name": "messenger.plus.duka.beta"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "761742170686-n76mi09mqv9gm4kcc9p6hvj4ts6t64h7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUc5k34vdD2QSE6_tx-ajAlMX6IBSk1yY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "761742170686-n76mi09mqv9gm4kcc9p6hvj4ts6t64h7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

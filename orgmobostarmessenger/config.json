@@ -1,0 +1,41 @@
+{
+"app_name": "Messenger Plus",
+"app_short_name": "Messenger Plus",
+"app_version_name": "2.1",
+"app_version_code": "150",
+"app_package": "messenger.plus.duka",
+"ad_type": "admob",
+"ads": {
+    "admob": {
+        "app_id": "ca-app-pub-4515365148789057~5118143195",
+        "ad_native": "ca-app-pub-4515365148789057/3054295011",
+        "ad_interstitial": "ca-app-pub-4515365148789057/9163890876",
+        "ad_banner": "ca-app-pub-4515365148789057/5647317694",
+        "ad_rewarded": "ca-app-pub-4515365148789057/9508022721",
+        "ad_reward_interstitial": "ca-app-pub-4515365148789057/9394991013",
+        "ad_app_open": "ca-app-pub-4515365148789057/5561302181"
+    }
+},
+"add_opt": {
+    "show_native": true,
+    "show_inter": true,
+    "show_banner": true,
+    "show_rewarded": true,
+    "show_reward_inter": false,
+    "show_open": true,
+    "chat_ad_count":10,
+    "chat_ad_count_space":5
+},
+"tele_api": {
+    "app_id": "17186587",
+    "app_hash": "11737c87ae50cfe57ebbef34c22e3f7d",
+    "app_name": "messenger home"
+},
+"config_url": "https://messenger-plus-db86e-default-rtdb.firebaseio.com/app.json",
+"one_signal_app_id": "acc84ed7-c332-4234-bd1b-f4af88028639",
+"channels_url": "https://raw.githubusercontent.com/majordevss/ch/master/channels.json",
+"catalog_config_ch": "cloneresourceschannel",
+"channel_add_ch": "agmloeabmembersgrama",
+"use_ch_for_member": true,
+"promo_ch":"clonepromo"
+}

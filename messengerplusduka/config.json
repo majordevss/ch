@@ -1,0 +1,41 @@
+{
+"app_name": "Messenger Plus",
+"app_short_name": "Messenger Plus",
+"app_version_name": "2.1",
+"app_version_code": "150",
+"app_package": "messenger.plus.duka",
+"ad_type": "admob",
+"ads": {
+    "admob": {
+        "app_id": "",
+        "ad_native": "",
+        "ad_interstitial": "",
+        "ad_banner": "",
+        "ad_rewarded": "",
+        "ad_reward_interstitial": "",
+        "ad_app_open": ""
+    }
+},
+"add_opt": {
+    "show_native": "true",
+    "show_inter": "true",
+    "show_banner": "true",
+    "show_rewarded": "false",
+    "show_reward_inter": "false",
+    "show_open": "true",
+    "chat_ad_count":50,
+    "chat_ad_count_space":5
+},
+"tele_api": {
+    "app_id": "24424806",
+    "app_hash": "b54fafd4f2666f03c4146861457e81f9",
+    "app_name": "plus tele x"
+},
+"config_url": "https://test-clone-3ead3-default-rtdb.firebaseio.com/apps/complusxmessengerandroid.json",
+"one_signal_app_id": "dec1bada-0b30-46d7-a2ea-6a76d1bbe802",
+"channels_url": "https://raw.githubusercontent.com/majordevss/ch/master/channels.json",
+"catalog_config_ch": "cloneresourceschannel",
+"channel_add_ch": "agmloeabmembersgrama",
+"use_ch_for_member": true,
+"promo_ch":"",
+}
